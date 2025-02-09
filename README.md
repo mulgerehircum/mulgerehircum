@@ -1,7 +1,4 @@
-## Hi there 👋
-My stack:
-<i class="devicon-react-original-wordmark colored"></i>
-                    
+## Hi there 👋                    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mulgerehircum&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
