@@ -18,6 +18,10 @@ Front-end developer based in Chisinau, Moldova. I build clean, interactive web e
 - **[Twitch Subdays Bot](https://github.com/mulgerehircum/twitch-subdays-bot)** — Bot tracking subscriber anniversaries on Twitch
 - **[Winery Landing](https://github.com/mulgerehircum/winery-landing)** — Landing page for a winery
 
+## 🤝 Open Source Contributions
+
+- **[forzagreen/n2words](https://github.com/forzagreen/n2words)** — Added Romanian language support to a zero-dependency JS number-to-words library (1.3k★) · [PR #154](https://github.com/forzagreen/n2words/pull/154)
+
 ## 📊 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mulgerehircum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
