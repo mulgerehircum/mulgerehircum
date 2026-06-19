@@ -2,6 +2,9 @@
 
 Front-end developer based in Chisinau, Moldova. I build clean, interactive web experiences with React and TypeScript.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://andriiponomarenko.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponomarenkoav/)
+
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
