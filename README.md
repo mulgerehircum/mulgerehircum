@@ -30,3 +30,7 @@ Front-end developer based in Chisinau, Moldova. I build clean, interactive web e
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mulgerehircum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mulgerehircum&theme=dark)](https://git.io/streak-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mulgerehircum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mulgerehircum?theme=dark&font=baloo_2&ext=heatmap)](https://leetcode.com/u/mulgerehircum/)
