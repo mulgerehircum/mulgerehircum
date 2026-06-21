@@ -33,4 +33,6 @@ Front-end developer based in Chisinau, Moldova. I build clean, interactive web e
 
 ## 🧩 LeetCode
 
+![LeetCode Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fmulgerehircum%2Fcalendar&query=%24.streak&label=Current%20Streak&color=%23ffa116&logo=leetcode&logoColor=yellow&style=flat&suffix=%20days)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mulgerehircum?theme=dark&font=baloo_2&ext=heatmap)](https://leetcode.com/u/mulgerehircum/)
